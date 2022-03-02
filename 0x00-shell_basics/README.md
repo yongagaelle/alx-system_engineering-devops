@@ -11,3 +11,4 @@ delete directory : 9-firstdirdeletion
 back to the future : 10-back
 list : 11-lists
 file type : 12-file_type
+we are symbols andinhabit symbols : 13-symbolic_link
