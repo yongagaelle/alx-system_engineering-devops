@@ -3,3 +3,4 @@ Display the contents list of your current directory file 1-listit
 write a script that changes the working directory to the user's home directory file 2-bring_me_home
 Display current directory contents in a long format file 3-listfiles
 display current directory contents,including hidden files :file 4-listmorefiles
+display current directory contents long format with user ID'S display numerically : file 5-listfilesdigitonly
