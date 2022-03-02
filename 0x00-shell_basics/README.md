@@ -7,3 +7,4 @@ display current directory contents long format with user ID'S display numericall
 create a script that create directory named my_first_directory in the /tmp/ directory : file 6-firstdirectory
 move the file : 7-movethatfile
 Delete the file : 8-firstdelete
+delete directory : 9-firstdirdeletion
