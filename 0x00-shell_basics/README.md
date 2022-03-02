@@ -6,3 +6,4 @@ display current directory contents,including hidden files :file 4-listmorefiles
 display current directory contents long format with user ID'S display numerically : file 5-listfilesdigitonly
 create a script that create directory named my_first_directory in the /tmp/ directory : file 6-firstdirectory
 move the file : 7-movethatfile
+Delete the file : 8-firstdelete
