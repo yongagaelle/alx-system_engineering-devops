@@ -12,3 +12,4 @@ display the content /etc/passwd file
 8-  Save  currentstate  of directory
 9-duplicate last line
 10- no more javascript
+11-Don't juste count your directories,make your  directories count
