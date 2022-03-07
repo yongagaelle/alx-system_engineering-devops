@@ -11,3 +11,4 @@ display the content /etc/passwd file
 7-it is a good file that cuts iron without making a noise
 8-  Save  currentstate  of directory
 9-duplicate last line
+10- no more javascript
