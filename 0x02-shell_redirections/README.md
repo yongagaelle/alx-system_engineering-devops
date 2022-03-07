@@ -10,3 +10,4 @@ display the content /etc/passwd file
 6- Line #2  
 7-it is a good file that cuts iron without making a noise
 8-  Save  currentstate  of directory
+9-duplicate last line
