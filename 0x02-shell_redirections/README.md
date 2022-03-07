@@ -13,3 +13,4 @@ display the content /etc/passwd file
 9-duplicate last line
 10- no more javascript
 11-Don't juste count your directories,make your  directories count
+12- what 's new
