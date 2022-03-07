@@ -15,3 +15,4 @@ display the content /etc/passwd file
 11-Don't juste count your directories,make your  directories count
 12- what 's new
 13- being unique is better than being perfect
+14-it must be in that file
