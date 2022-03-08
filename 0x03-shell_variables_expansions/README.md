@@ -13,4 +13,5 @@
 12-combination
 13-Floats
 14- decimal to hexadecimal
-15 Everyone is a proponent of strong encryption  
+15 Everyone is a proponent of strong encryption
+16-The eggs of the brood need to be  an odd number  
