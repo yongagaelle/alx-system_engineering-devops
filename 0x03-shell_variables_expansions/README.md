@@ -8,4 +8,5 @@
 7- Global variable
 8-Every addition to true knowledge is an addition to human power
 9-Divide and rule
-10-love is anterior to file ,posterior to death, initial of creation,and the exponent of breath  
+10-love is anterior to file ,posterior to death, initial of creation,and the exponent of breath
+11-there are 10types  of people in the world  
